@@ -1,0 +1,73 @@
+[
+    {
+        "text" : "Pitanje 1",
+        "options" : ["Option 1","Option 2","Option 3","Option 4"],
+        "answer" : "Option 1",
+        "category" : "film",
+        "points" : 5
+    },
+    {
+        "text" : "Pitanje 2",
+        "options" : ["Option 1","Option 2","Option 3","Option 4"],
+        "answer" : "Option 1",
+        "category" : "sport",
+        "points" : 5
+    },
+    {
+        "text" : "Pitanje 3",
+        "options" : ["Option 1","Option 2","Option 3","Option 4"],
+        "answer" : "Option 1",
+        "category" : "muzik",
+        "points" : 5
+    },
+    {
+        "text" : "Pitanje 4",
+        "options" : ["Option 1","Option 2","Option 3","Option 4"],
+        "answer" : "Option 1",
+        "category" : "film",
+        "points" : 5
+    },
+    {
+        "text" : "Pitanje 5",
+        "options" : ["Option 1","Option 2","Option 3","Option 4"],
+        "answer" : "Option 1",
+        "category" : "sport",
+        "points" : 5
+    },
+    {
+        "text" : "Pitanje 6",
+        "options" : ["Option 1","Option 2","Option 3","Option 4"],
+        "answer" : "Option 1",
+        "category" : "film",
+        "points" : 5
+    },
+    {
+        "text" : "Pitanje 7",
+        "options" : ["Option 1","Option 2","Option 3","Option 4"],
+        "answer" : "Option 1",
+        "category" : "muzik",
+        "points" : 5
+    },
+    {
+        "text" : "Pitanje 8",
+        "options" : ["Option 1","Option 2","Option 3","Option 4"],
+        "answer" : "Option 1",
+        "category" : "muzik",
+        "points" : 5
+    },
+    {
+        "text" : "Pitanje 9",
+        "options" : ["Option 1","Option 2","Option 3","Option 4"],
+        "answer" : "Option 1",
+        "category" : "film",
+        "points" : 5
+    },
+    {
+        "text" : "Pitanje 10",
+        "options" : ["Option 1","Option 2","Option 3","Option 4"],
+        "answer" : "Option 1",
+        "category" : "sport",
+        "points" : 5
+    }
+]
+
